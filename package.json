@@ -9,6 +9,7 @@
   "keywords": [
     "mat"
   ],
+  "homepage": "https://github.com/c-basso/contains-mat",
   "author": "c-basso@ya.ru",
   "license": "MIT",
   "devDependencies": {
