@@ -1,0 +1,17 @@
+{
+  "name": "contains-mat",
+  "version": "1.0.0",
+  "description": "Module for detect mat in russian texts",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mat"
+  ],
+  "author": "c-basso@ya.ru",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
