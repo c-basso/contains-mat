@@ -1,6 +1,6 @@
 {
   "name": "contains-mat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module for detect mat in russian texts",
   "main": "index.js",
   "scripts": {
